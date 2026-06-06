@@ -13,4 +13,5 @@ Output
 
 The webpage displays a clean introduction with my name, photo, and a clickable GitHub link.
 
-"C:\Users\DELL\OneDrive\Pictures\Screenshots\task1.png"
+<img width="1366" height="768" alt="task1" src="https://github.com/user-attachments/assets/15de8b05-55cd-44ac-b1ce-dc118fa724e2" />
+
